@@ -1,3 +1,3 @@
 # GD3D
 
-3D game built using Godot Engine
+3D game I built using Godot Engine
